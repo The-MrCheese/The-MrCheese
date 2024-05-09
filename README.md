@@ -1,3 +1,5 @@
+<img src="./Readme.png">
+
 <h1 align="center">Hi 👋, I'm Mr Cheese</h1>
 <h3 align="center">An eager coder on his programming journey.</h3>
 
