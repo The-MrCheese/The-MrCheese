@@ -1,6 +1,6 @@
 <img src="./Readme.jpeg">
 
-<h1 align="center">Hi 👋, I'm Mr Cheese</h1>
+<h1 align="center">Welcome! 👋, I'm Mr Cheese</h1>
 <h3 align="center">An eager coder on his programming journey.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-mrcheese&label=Profile%20views&color=8A9A5B&style=flat" alt="the-mrcheese" /> </p>
